@@ -45,6 +45,7 @@ https://cran.r-project.org/web/packages/kerasR/kerasR.pdf
 http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ <br>
 https://www.oreilly.com/learning/getting-started-with-deep-learning-using-keras-and-python-new <br>
 http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/ <br>
+https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/ <br>
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction <br>
 https://keras.io/getting-started/sequential-model-guide/#examples <br>
 
